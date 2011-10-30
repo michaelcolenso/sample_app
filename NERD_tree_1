@@ -1,0 +1,35 @@
+" Press ? for help
+
+.. (up a dir)
+<elcolenso/Projects/sample_app/
+▼ app/
+  ▶ assets/
+  ▼ controllers/
+    application_controller.rb
+    pages_controller.rb
+  ▶ helpers/
+  ▶ mailers/
+  ▶ models/
+  ▼ views/
+    ▼ layouts/
+      application.html.erb
+    ▼ pages/
+      about.html.erb
+      contact.html.erb
+      home.html.erb
+▶ bin/
+▶ config/
+▶ db/
+▶ doc/
+▶ lib/
+▶ log/
+▶ public/
+▶ script/
+▶ spec/
+▶ tmp/
+▶ vendor/
+config.ru
+Gemfile
+Gemfile.lock
+Rakefile
+README.markdown
